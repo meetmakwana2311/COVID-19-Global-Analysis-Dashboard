@@ -37,7 +37,7 @@ This Power BI project provides an interactive dashboard for tracking and analyzi
 
 ## 📂 Data Sources
 
-(Data imported into Power BI; assumed source)
+(Data imported into Power BI from 'full_grouped.csv')
 
 * COVID-19 public datasets from **WHO**, **Johns Hopkins University**, or **Our World in Data**
 * May include CSV, Excel, or API data
